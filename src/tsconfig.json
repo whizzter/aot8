@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"module": "CommonJS",
+		"target": "es2017",
+		"outDir": "../bin/js",
+		"inlineSourceMap": true
+	},
+	"files": ["aot8.ts"],
+	"exclude": [
+		"node_modules"
+	]
+}

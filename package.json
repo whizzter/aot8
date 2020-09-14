@@ -1,0 +1,33 @@
+{
+  "name": "aot8",
+  "version": "0.1.0",
+  "description": "aot8",
+  "main": "bin/js/aot8.js",
+  "scripts": {
+    "start": "node bin/js/aot8.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whizzter/aot8.git"
+  },
+  "keywords": [
+    "aot",
+    "lua",
+    "compiler",
+    "compilation",
+    "pico8"
+  ],
+  "author": "Jonas Lund",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/whizzter/aot8/issues"
+  },
+  "homepage": "https://github.com/whizzter/aot8#readme",
+  "dependencies": {
+    "luaparse": "^0.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.10.1"
+  }
+}

@@ -1,0 +1,3 @@
+[submodule "examples/Pico8Platformer"]
+	path = examples/Pico8Platformer
+	url = https://github.com/Enichan/Pico8Platformer.git
