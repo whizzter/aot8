@@ -25,9 +25,12 @@
   },
   "homepage": "https://github.com/whizzter/aot8#readme",
   "dependencies": {
-    "luaparse": "^0.3.0"
+    "luaparse": "git+https://github.com/whizzter/luaparse.git",
+    "pngjs": "^5.0.0"
   },
   "devDependencies": {
-    "@types/node": "^14.10.1"
+    "@types/luaparse": "^0.2.6",
+    "@types/node": "^14.10.1",
+    "@types/pngjs": "^3.4.2"
   }
 }

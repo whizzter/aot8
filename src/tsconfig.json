@@ -6,7 +6,7 @@
 		"outDir": "../bin/js",
 		"inlineSourceMap": true
 	},
-	"files": ["aot8.ts"],
+	"files": ["aot8.ts","p8dec.ts"],
 	"exclude": [
 		"node_modules"
 	]
